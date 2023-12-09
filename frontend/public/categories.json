@@ -1,0 +1,2198 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": "Jordan",
+        "slug": "jordan",
+        "createdAt": "2023-06-03T21:35:33.224Z",
+        "updatedAt": "2023-06-03T21:35:41.194Z",
+        "publishedAt": "2023-06-03T21:35:40.830Z",
+        "products": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "name": "Air Jordan 1 Mid SE",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 142990,
+                "description": "**Every time the AJ1** gets a remake, you get the classic sneaker in new colours\nand textures for an exciting, revamped look but with all the familiar comforts\nyou know. Premium materials and accents give modern expression to an alltime\nfavourite.\n\n- Colour Shown: White/Black/Ice Blue\n- Style: DV1308-104",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 12",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 172990,
+                "slug": "air-jordan-1-mid-se-1",
+                "createdAt": "2023-06-03T21:34:35.869Z",
+                "updatedAt": "2023-06-04T13:39:29.904Z",
+                "publishedAt": "2023-06-03T21:35:55.345Z"
+              }
+            },
+            {
+              "id": 6,
+              "attributes": {
+                "name": "Air Jordan 13 Retro",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 209990,
+                "description": "**The Air Jordan 13 Retro** brings back the memorable game shoe that Michael\nJordan wore during the '97–98 season, all the way to his 6th championship\ntitle. All the classic details are there like the quilted overlay, iconic sculpted\nmidsole and holographic eye.\n\n- Colour Shown: Black/White/True Red\n- Style: 414571-062",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 269990,
+                "slug": "air-jordan-13-retro",
+                "createdAt": "2023-06-03T23:07:48.023Z",
+                "updatedAt": "2023-06-04T13:41:57.573Z",
+                "publishedAt": "2023-06-03T23:07:58.624Z"
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "name": "Air Jordan XXXVII Low PF",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 196990,
+                "description": "**You've got the hops and the speed**—lace up in shoes that enhance what you\nbring to the court. The latest AJ is all about take-offs and landings, with\nmultiple Air units to get you off the ground. The upper is made with strong,\nreinforced leno-weave fabric that'll keep you contained and leave your game\nuncompromised. This low-top model is designed for playing on outdoor\ncourts.\n\n- Colour Shown: White/Siren Red/Black\n- Style: DQ4123-100",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 246990,
+                "slug": "air-jordan-xxxvii-low-pf",
+                "createdAt": "2023-06-03T21:56:32.484Z",
+                "updatedAt": "2023-06-04T13:40:47.471Z",
+                "publishedAt": "2023-06-03T21:56:43.124Z"
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "name": "Jordan Why Not .6 PF",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 139990,
+                "description": "**Russell Westbrook's 6th signature shoe** is—you guessed it—all about speed.\nTo get you goin' as fast as possible, we've wrapped the rubber outsole nearly\nup to the midsole, so you're not gonna slip when you explode from 0 to 100.\nAdded security comes from the interior bootie that keeps you strapped in as\nyou jet across the court. It's all held together by an outer shroud and fastened\nwith a zip collar that spells out Russell's signature question: \"Why Not?\"\n\n- Colour Shown: Phantom/Rattan/Pale Ivory/Black\n- Style: DO7190-002",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 209990,
+                "slug": "jordan-why-not-6-pf",
+                "createdAt": "2023-06-03T22:55:49.102Z",
+                "updatedAt": "2023-06-04T13:41:04.144Z",
+                "publishedAt": "2023-06-03T22:55:59.257Z"
+              }
+            },
+            {
+              "id": 4,
+              "attributes": {
+                "name": "Jordan Stay Loyal 2",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 116990,
+                "description": "**Inspired by generations of Js, these kicks are a collage of cool**. Design details\nrecall decades of legendary shoes while paying homage to MJs storied\ncareer. Breathable mesh, sturdy leather and lightweight Air cushioning in the\nheel make it that much easier to walk in the footsteps of greatness.\n\n- Colour Shown: Black/Gym Red/White\n- Style: DQ8401-061",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 196990,
+                "slug": "jordan-stay-loyal-2",
+                "createdAt": "2023-06-03T22:58:40.377Z",
+                "updatedAt": "2023-06-04T13:41:22.145Z",
+                "publishedAt": "2023-06-03T22:58:50.874Z"
+              }
+            },
+            {
+              "id": 5,
+              "attributes": {
+                "name": "Jordan Delta 3 Low",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 62990,
+                "description": "**You can't help but look cool in low tops that meld high-end craft with hightech\nfeatures**. Airy Ripstop and soft, synthetic suede pair with a smooth\ninterior. The result? Classic low-top looks and the premium comfort you\nexpect from Jordan Brand.\n\n- Colour Shown: Sesame/Chambray\n- Style: DN2647-200",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 159990,
+                "slug": "jordan-delta-3-low",
+                "createdAt": "2023-06-03T23:03:06.508Z",
+                "updatedAt": "2023-06-04T13:41:39.829Z",
+                "publishedAt": "2023-06-03T23:03:16.709Z"
+              }
+            },
+            {
+              "id": 7,
+              "attributes": {
+                "name": "Air Jordan 6 Retro",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 139990,
+                "description": "Be cool. Stay cool. **The AJ-6 \"Cool Grey\"** lets your style take flight with a\ncolourway rooted to Jordan Brand DNA. MJ wore 'em when he claimed his\nfirst championship and you'll be wearing 'em for—well, whatever you want.\nLaden with sleek features like dynamic design lines and an iced outsole,\nthese sneakers bring speed and class to any 'fit. After all, they were famously\ninspired by Jordan's (wait for it) COOL sports car. So lace up and let your\nkicks do the rest.\n\n- Colour Shown: White/Cool Grey/Medium Grey\n- Style: CT8529-100",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 206990,
+                "slug": "air-jordan-6-retro",
+                "createdAt": "2023-06-03T23:12:10.313Z",
+                "updatedAt": "2023-06-04T13:42:13.813Z",
+                "publishedAt": "2023-06-03T23:12:20.800Z"
+              }
+            },
+            {
+              "id": 8,
+              "attributes": {
+                "name": "Air Jordan 1 Retro High OG",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 209990,
+                "description": "**3 + 1 = a whole new icon**. Celebrating 35 years of the Air Jordan 3, these\nkicks combine the classic AJ1 silhouette with an original AJ3 colourway.\nCrafted to the '85 specs, it's got premium leather, a high-top collar and the\nwoven tongue label you know and love. Bold splashes of True Blue\nthroughout (check out the Wings logo) stand out against layers of white and\nCement Grey. And the finishing touch? Nike Air cushioning underfoot lets you\nkeep pace, so nothing holds you back from stepping out in style.\n\n- Colour Shown: True Blue/Cement Grey/White\n- Style: DZ5485-410",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 269990,
+                "slug": "air-jordan-1-retro-high-og",
+                "createdAt": "2023-06-03T23:19:16.058Z",
+                "updatedAt": "2023-06-04T13:42:29.272Z",
+                "publishedAt": "2023-06-03T23:19:26.411Z"
+              }
+            },
+            {
+              "id": 9,
+              "attributes": {
+                "name": "Air Jordan 1 Mid SE Craft",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 139990,
+                "description": "Turn style on its head with this crafted take on **the Air Jordan 1 Mid**. Its\n\"inside out\"-inspired construction, including unique layering and exposed\nfoam accents, ups the ante on this timeless Jordan Brand silhouette. Details\nlike the deco stitching on the Swoosh add coveted appeal, while the\nunexpected shading, rich mixture of materials and aged midsole aesthetic\ngive this release an artisan finish.\n\n- Colour Shown: Sail/Fossil Stone/Celestial Gold/Taupe Haze\n- Style: DM9652-102",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 206990,
+                "slug": "air-jordan-1-mid-se-craft",
+                "createdAt": "2023-06-03T23:22:45.162Z",
+                "updatedAt": "2023-06-04T13:42:44.359Z",
+                "publishedAt": "2023-06-03T23:22:55.517Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "Fútbol",
+        "slug": "futbol",
+        "createdAt": "2023-06-03T21:44:52.257Z",
+        "updatedAt": "2023-06-06T13:40:58.291Z",
+        "publishedAt": "2023-06-03T21:44:59.852Z",
+        "products": {
+          "data": [
+            {
+              "id": 20,
+              "attributes": {
+                "name": "Zoom Superfly 9 Elite XXV",
+                "subtitle": "Zapatillas de fútbol para hombre",
+                "price": 279990,
+                "description": "Rinde homenaje al 25 aniversario de uno de nuestros calzados más rápidos jamás creados con el **Superfly 9 Elite XXV**. Los colores icónicos de la línea Mercurial complementan los toques históricos de este modelo. El impresionante efecto cromado agrega aún más electricidad a este modelo relámpago con Zoom Air, que nos pregunta: ¿qué momentos se convertirán en recuerdos en los próximos 25 años? A lo largo de los años, los tonos Volt e hiperrosa se han utilizado en muchos de los diseños de calzado más icónicos del linaje de Mercurial. El gráfico MXXV en tono Volt, el logotipo Swoosh en tono hiperrosa y los tacos en tono hiperrosa en la parte inferior ofrecen expresiones únicas para este diseño especial. El efecto cromado resalta la base color plata metalizado para destacar la importancia del hito de los 25 años. \n\n- Color: Rosa \n- Estilo: FB8397-060",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 319990,
+                "slug": "zoom-superfly-9-elite-xxv",
+                "createdAt": "2023-06-04T14:40:50.373Z",
+                "updatedAt": "2023-06-04T15:07:26.261Z",
+                "publishedAt": "2023-06-04T14:41:00.316Z"
+              }
+            },
+            {
+              "id": 21,
+              "attributes": {
+                "name": "Nike Tiempo Legend 9",
+                "subtitle": "Zapatillas de fútbol para hombre",
+                "price": 76990,
+                "description": "El calzado Nike Tiempo Legend 9 Academy MG, uno de nuestros Tiempo más ligeros hasta la fecha, permite atacar con un diseño de perfil bajo renovado. La parte superior presenta texturas en relieve con suaves almohadillas de espuma que brindan precisión para los regates, pases y tiros, mientras que los tachones en la base aportan tracción para los cortes rápidos y las frenadas repentinas.\n\nColor: Amarillo\nEstilo: DA1174-705\n",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 129990,
+                "slug": "nike-tiempo-legend-9",
+                "createdAt": "2023-06-04T14:42:37.032Z",
+                "updatedAt": "2023-06-11T14:23:29.258Z",
+                "publishedAt": "2023-06-11T14:23:28.841Z"
+              }
+            },
+            {
+              "id": 22,
+              "attributes": {
+                "name": "Zoom Superfly 9 Elite CR7",
+                "subtitle": "Zapatillas de fútbol para hombre",
+                "price": 249990,
+                "description": "Como **Cristiano Ronaldo**, los azulejos son un tesoro nacional portugués. Para el **Nike Zoom Mercurial Superfly 9 Elite CR7**, nos inspiramos visualmente en los íconos portugueses para mostrar lo que se puede lograr al dedicarse a la artesanía. Ahora con una unidad Zoom Air específica para fútbol, puedes acelerar en los últimos minutos de un partido, cuando más importa. El estampado único en toda la parte superior rinde homenaje a algunos de los calzados anteriores de CR7 con un patrón gráfico de azulejos. La estructura de velocidad en su interior está hecha con un material delgado pero resistente que fija el pie a la suela sin agregar peso adicional para ofrecer un ajuste óptimo. \n\n- Color: Blanco \n- Estilo: DQ5293-182",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 299990,
+                "slug": "zoom-superfly-9-elite-cr-7",
+                "createdAt": "2023-06-04T14:44:51.290Z",
+                "updatedAt": "2023-06-11T14:41:20.523Z",
+                "publishedAt": "2023-06-04T14:45:01.673Z"
+              }
+            },
+            {
+              "id": 23,
+              "attributes": {
+                "name": "Zoom Superfly 9 Elite FG",
+                "subtitle": "Zapatillas de fútbol para hombre",
+                "price": 296990,
+                "description": "Juega con el campo a tu favor con el diseño audaz del **Superfly 9 Elite**. Agregamos una unidad **Zoom Air**, hecha específicamente para el fútbol, y una textura de agarre en la parte superior para brindar un toque excepcional, para que puedas dominar los últimos minutos de un partido, cuando más importa. La parte superior está confeccionada con Vaporposite, que combina una malla de rejilla con agarre con un forro premium para brindar un control óptimo del balón a altas velocidades. El forro proporciona una sensación táctil en la superficie de la parte superior. Es suave, pero estable y se envuelve firmemente alrededor del pie, lo que brinda una sensación más natural en el balón cuando haces regates, pases o goles. \n\n- Color: Negro \n- Estilo: DJ4977-001",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 349990,
+                "slug": "zoom-superfly-9-elite-fg",
+                "createdAt": "2023-06-04T14:47:26.529Z",
+                "updatedAt": "2023-06-04T15:08:19.349Z",
+                "publishedAt": "2023-06-04T14:47:36.540Z"
+              }
+            },
+            {
+              "id": 24,
+              "attributes": {
+                "name": "Nike Phantom GT2",
+                "subtitle": "Zapatillas de fútbol para hombre",
+                "price": 86990,
+                "description": "Celebra la competencia más grande de fútbol con un diseño impulsado por la ciencia de la conectividad y la gravedad que inspira el escenario mundial. Con un look futurista increíble hecho para los jugadores más grandes del mundo, este calzado cuenta con un diseño actualizado y un patrón gráfico para ayudarte a hacer tiros con una precisión milimétrica. Las agujetas descentradas dejan libre la zona de impacto para regatear, pasar y marcar con precisión. \n\n- Color: Naranja \n- Estilo: DR5965-810",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 139990,
+                "slug": "nike-phantom-gt-2",
+                "createdAt": "2023-06-04T14:49:26.550Z",
+                "updatedAt": "2023-06-04T15:08:34.617Z",
+                "publishedAt": "2023-06-04T14:49:50.528Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": "Estilo de vida",
+        "slug": "estilo-de-vida",
+        "createdAt": "2023-06-03T21:45:33.911Z",
+        "updatedAt": "2023-06-03T21:45:41.329Z",
+        "publishedAt": "2023-06-03T21:45:40.999Z",
+        "products": {
+          "data": [
+            {
+              "id": 10,
+              "attributes": {
+                "name": "Nike Air Force 1 High '07 LX",
+                "subtitle": "Zapatillas para hombre",
+                "price": 147990,
+                "description": "50 años después del nacimiento del género, el hip hop sigue influyendo en el streetwear. Los zapatos **Nike** siempre han sido una parte integral de esta cultura: influencian y son influenciados por músicos, artistas y fanáticos icónicos. \n\n- Color: Negro \n- Estilo: FB2049-001",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 206990,
+                "slug": "nike-air-force-1-high-07-lx",
+                "createdAt": "2023-06-04T13:45:44.182Z",
+                "updatedAt": "2023-06-04T15:04:17.556Z",
+                "publishedAt": "2023-06-04T13:45:54.015Z"
+              }
+            },
+            {
+              "id": 11,
+              "attributes": {
+                "name": "Nike Dunk Low Retro SE 2",
+                "subtitle": "Zapatillas para hombre",
+                "price": 112990,
+                "description": "Creado para la cancha y adaptado al estilo urbano, este clásico del básquetbol de los 80 vuelve renovado con un nuevo ángulo. El **Nike Hatchery** se enorgullece de lanzar un **Dunk** con detalles de estampado de trucha, con escamas de pescado brillantes en relieve y con un anzuelo Nike Swoosh. \n\n- Color: Verde \n- Estilo: FN7523-300",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 189990,
+                "slug": "nike-dunk-low-retro-se-2",
+                "createdAt": "2023-06-04T13:50:16.971Z",
+                "updatedAt": "2023-06-04T15:04:39.861Z",
+                "publishedAt": "2023-06-04T13:50:28.070Z"
+              }
+            },
+            {
+              "id": 12,
+              "attributes": {
+                "name": "Nike Air Humara",
+                "subtitle": "Zapatillas para hombre",
+                "price": 162990,
+                "description": "Con una auténtica combinación de estilo y comodidad, los calcetines largos **Nike** Everyday Plus ofrecen amortiguación en las zonas clave para mantener la comodidad todo el día. La tela **Dri-FIT** y la malla transpirable en la parte superior del pie ayudan a mantener la transpirabilidad, y la banda del arco proporciona un ajuste ceñido. \n\n- Color: Verde \n- Estilo: FJ7098-300",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 249990,
+                "slug": "nike-air-humara",
+                "createdAt": "2023-06-04T13:53:16.635Z",
+                "updatedAt": "2023-06-04T15:04:55.530Z",
+                "publishedAt": "2023-06-04T13:53:27.073Z"
+              }
+            },
+            {
+              "id": 13,
+              "attributes": {
+                "name": "Nike Dunk Low",
+                "subtitle": "Zapatillas para hombre",
+                "price": 116990,
+                "description": "Desde los tableros hasta el skateboard, la influencia del **Nike** **Dunk** es innegable. Aunque se presentó como un calzado de básquetbol en 1985, la suela plana y adherente es perfecta para una comunidad deportiva desatendida: los skaters. Al revelar una subcultura que anhela la creatividad tanto como la funcionalidad, el **Dunk** lanzó décadas de incontables gamas de colores que continúan capturando el alma de los skaters de costa a costa. \n\n- Color: Rojo \n- Estilo: FD0724-657",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 169990,
+                "slug": "nike-dunk-low-1",
+                "createdAt": "2023-06-04T13:59:14.995Z",
+                "updatedAt": "2023-06-04T15:05:12.891Z",
+                "publishedAt": "2023-06-04T13:59:25.024Z"
+              }
+            },
+            {
+              "id": 14,
+              "attributes": {
+                "name": "Nike Air Max SC",
+                "subtitle": "Zapatillas para hombre",
+                "price": 82990,
+                "description": "La tecnología revolucionaria **Air** se introdujo por primera vez en el calzado **Nike** en 1978. En 1987, el **Air Max 1** debutó con la tecnología Air visible en el talón, que le proporcionaba a sus fans mucho más que la sensación de amortiguación Air: esta comodidad también podía verse. Desde entonces, el calzado Air Max de última generación se convirtió en el favorito de los atletas y coleccionistas por sus combinaciones atractivas de colores, además de su amortiguación ligera y confiable. \n\n- Color: Blanco \n- Estilo: CW4544-112",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 145990,
+                "slug": "nike-air-max-sc",
+                "createdAt": "2023-06-04T14:06:55.503Z",
+                "updatedAt": "2023-06-04T15:05:29.278Z",
+                "publishedAt": "2023-06-04T14:07:06.631Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "name": "Running",
+        "slug": "running",
+        "createdAt": "2023-06-03T21:46:08.894Z",
+        "updatedAt": "2023-06-03T21:46:16.249Z",
+        "publishedAt": "2023-06-03T21:46:15.933Z",
+        "products": {
+          "data": [
+            {
+              "id": 15,
+              "attributes": {
+                "name": "Nike Pegasus 40 SE",
+                "subtitle": "Zapatillas running para hombre",
+                "price": 129990,
+                "description": "Con una pisada elástica para cualquier tipo de carrera, vuelve la sensación familiar e ideal para ti que ofrece el **Peg** para ayudarte a alcanzar tus objetivos. Esta versión cuenta con la misma capacidad de respuesta inmediata y soporte neutro que te encanta, pero con comodidad mejorada en las zonas sensibles del pie, como el arco y los dedos. Ya sea que recorras muchos kilómetros en un maratón, que te hagas un tiempo para una carrera de velocidad antes de que se ponga el sol o que te unas a un grupo espontáneo de excursionistas, se trata de un calzado de carretera con una trayectoria fija, en el que puedes confiar, día tras día, carrera tras carrera. Los tonos brillantes y vivos complementan los colores neutros del espacio oscuro, y hablan de un mundo inclusivo donde lo digital y lo físico coexisten en armonía. \n\n- Color: Negro \n- Estilo: FB7180-001",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 189990,
+                "slug": "nike-pegasus-40-se",
+                "createdAt": "2023-06-04T14:10:13.134Z",
+                "updatedAt": "2023-06-04T15:05:47.257Z",
+                "publishedAt": "2023-06-04T14:10:23.907Z"
+              }
+            },
+            {
+              "id": 16,
+              "attributes": {
+                "name": "Nike Quest 5",
+                "subtitle": "Zapatillas running para hombre",
+                "price": 76990,
+                "description": "Te atas en busca de nuevas metas personales. Deja que **Nike Quest 5** te ayude a alcanzar esas aspiraciones. Esta zapatilla neutra te brinda una pisada suave y cómoda con mucha tracción. Nos enfocamos en nuestra espuma, agregando más amortiguación para una mejor transición del talón a la puntera. \n\n- Color: Negro \n- Estilo: FB87356-002",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 136990,
+                "slug": "nike-quest-5",
+                "createdAt": "2023-06-04T14:12:03.582Z",
+                "updatedAt": "2023-06-04T15:06:04.973Z",
+                "publishedAt": "2023-06-04T14:12:13.375Z"
+              }
+            },
+            {
+              "id": 17,
+              "attributes": {
+                "name": "Nike Zoom Fly 5",
+                "subtitle": "Zapatillas running para hombre",
+                "price": 159990,
+                "description": "Acorta la brecha entre tu carrera de entrenamiento de fin de semana y el día de la carrera con un diseño duradero ideal para lucirlo no solo en la línea de salida de tu carrera favorita, sino también en los días y los meses después a tu victoria. Ofrece comodidad y confiabilidad y una sensación de propulsión que te ayudará a sentir la rapidez y frescura. Ese tipo de versatilidad es poco común en el campo del running. ¿Quién dijo que no podías tenerlo todo? \n\n- Color: Rosa \n- Estilo: DM8968-600",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 209990,
+                "slug": "nike-zoom-fly-5",
+                "createdAt": "2023-06-04T14:14:44.707Z",
+                "updatedAt": "2023-06-04T15:06:22.468Z",
+                "publishedAt": "2023-06-04T14:15:02.420Z"
+              }
+            },
+            {
+              "id": 18,
+              "attributes": {
+                "name": "Nike Winflo 10",
+                "subtitle": "Zapatillas running para hombre",
+                "price": 102990,
+                "description": "Ve con el **Winflo 10**, una pisada balanceada para comenzar tu carrera, ya sea que seas una persona de hábitos registrando tu kilometraje semanal, un novato con la esperanza de volver la curiosidad en rutina o simplemente te juntes con un amigo para una carrera esporádica el fin de semana. Creamos más espacio en el antepié para complementar la elasticidad del **Nike Air** y la sensación de suavidad que ofrece la espuma acolchada. Está preparado para tu carrera, cuando la calle grita tu nombre. \n\n- Color: Negro \n- Estilo:DV4022-003",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 179990,
+                "slug": "nike-winflo-10",
+                "createdAt": "2023-06-04T14:17:28.557Z",
+                "updatedAt": "2023-06-04T15:06:39.817Z",
+                "publishedAt": "2023-06-04T14:17:40.675Z"
+              }
+            },
+            {
+              "id": 19,
+              "attributes": {
+                "name": "Nike Downshifter 12",
+                "subtitle": "Zapatillas running para hombre",
+                "price": 69990,
+                "description": "Da los primeros pasos en tu experiencia con el running con el **Nike Downshifter 12**. Confeccionado con al menos un 20% de contenido reciclado por peso, brinda un ajuste con soporte y una pisada estable. Además, la sensación de ligereza posibilita una transición más fluida del entrenamiento a las actividades diarias. Comienza tu recorrido. Amárrate las agujetas y comienza a correr. \n\n- Color: Gris \n- Estilo: DD9293-008",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 149990,
+                "slug": "nike-downshifter-12",
+                "createdAt": "2023-06-04T14:38:46.901Z",
+                "updatedAt": "2023-06-04T15:06:57.255Z",
+                "publishedAt": "2023-06-04T14:38:56.992Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "name": "Básquetbol",
+        "slug": "basquetbol",
+        "createdAt": "2023-06-04T13:21:10.648Z",
+        "updatedAt": "2023-06-06T13:41:15.108Z",
+        "publishedAt": "2023-06-04T13:21:17.973Z",
+        "products": {
+          "data": [
+            {
+              "id": 6,
+              "attributes": {
+                "name": "Air Jordan 13 Retro",
+                "subtitle": "Zapatillas Jordan para hombre",
+                "price": 209990,
+                "description": "**The Air Jordan 13 Retro** brings back the memorable game shoe that Michael\nJordan wore during the '97–98 season, all the way to his 6th championship\ntitle. All the classic details are there like the quilted overlay, iconic sculpted\nmidsole and holographic eye.\n\n- Colour Shown: Black/White/True Red\n- Style: 414571-062",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 269990,
+                "slug": "air-jordan-13-retro",
+                "createdAt": "2023-06-03T23:07:48.023Z",
+                "updatedAt": "2023-06-04T13:41:57.573Z",
+                "publishedAt": "2023-06-03T23:07:58.624Z"
+              }
+            },
+            {
+              "id": 25,
+              "attributes": {
+                "name": "Zion 2",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 126990,
+                "description": "Canaliza nuevos niveles de velocidad y potencia con un calzado diseñado para **Zion** y desarrollado para los jugadores de cualquier nivel. La correa ajustable en la parte superior ayuda a mantener el pie firme, al mismo tiempo que la entresuela firme permite jugar a altas velocidades. Además, el **Zion 2** tiene más amortiguación Air que su predecesor, por lo que llegarás a las nubes más fácilmente y aterrizarás más suavemente. Haz que esta sea tu elección número 1 para la cancha. \n\n- Color: Blanco \n- Estilo: FJ1213-106",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 179990,
+                "slug": "zion-2",
+                "createdAt": "2023-06-04T14:51:52.091Z",
+                "updatedAt": "2023-06-04T15:08:51.895Z",
+                "publishedAt": "2023-06-04T14:52:02.070Z"
+              }
+            },
+            {
+              "id": 26,
+              "attributes": {
+                "name": "Nike Fly By Mid 3",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 66990,
+                "description": "La amortiguación, el soporte del tobillo y la tracción son imprescindibles en la cancha de básquetbol. El **Nike Fly.By Mid 3** ofrece exactamente lo que se necesita para ayudar a los jugadores a sobresalir en el ataque y la defensa. Diseñado para ofrecer un look tan cómodo como se siente, este calzado de diseño mid cuenta con una espuma suave y con retorno de energía para mantener la frescura durante los cuatro cuartos. \n\n- Color: Gris \n- Estilo: DD9311-007",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 107990,
+                "slug": "nike-fly-by-mid-3",
+                "createdAt": "2023-06-04T14:53:35.174Z",
+                "updatedAt": "2023-06-04T15:09:08.054Z",
+                "publishedAt": "2023-06-04T14:53:46.329Z"
+              }
+            },
+            {
+              "id": 27,
+              "attributes": {
+                "name": "Lebron XX Xmas",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 189990,
+                "description": "Al igual que Santa bajando por la chimenea, **LeBron James** siempre trae el calor en el día de Navidad con algunos de los esquemas de colores más geniales en la cancha en el juego. Con los mejores diseños de LeBron de las Navidades pasadas, esta edición especial tiene un regalo valioso en la plantilla, recordando el lugar donde empezó todo para El Rey. A diferencia de todo lo que LeBron ha usado antes, el 20 es cómodo y con soporte, pero de corte bajo, rápido como una pluma y creado para estar a la vanguardia del frenético estilo de juego actual. \n\n- Color: Verde \n- Estilo:FJ4955-300",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 239990,
+                "slug": "lebron-xx-xmas",
+                "createdAt": "2023-06-04T14:55:27.033Z",
+                "updatedAt": "2023-06-04T15:09:25.148Z",
+                "publishedAt": "2023-06-04T14:55:37.458Z"
+              }
+            },
+            {
+              "id": 28,
+              "attributes": {
+                "name": "Zoom Freak 4",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 79990,
+                "description": "Giannis es una tormenta incesante de resistencia y habilidad que puede enfrentar a sus oponentes durante los cuatro cuartos o más. El diseño vanguardista de su último calzado exclusivo te impulsa en la cancha con un ajuste ligero que se adapta a tus movimientos. Puede manejar cambios rápidos de dirección a ambos lados de la cancha con estabilidad de lado a lado y tracción multidireccional mientras avanzas con la jugada hacia la canasta. \n\n- Color: Violeta \n- Estilo: DQ3824-500",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 109990,
+                "slug": "zoom-freak-4",
+                "createdAt": "2023-06-04T14:57:23.388Z",
+                "updatedAt": "2023-06-04T15:09:44.180Z",
+                "publishedAt": "2023-06-04T14:57:33.399Z"
+              }
+            },
+            {
+              "id": 29,
+              "attributes": {
+                "name": "Luka 1",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 122990,
+                "description": "Diseñado para el número 77 y creado para todos los atletas que anhelan velocidad y eficiencia, el debut de **Luka** te ofrece todo el rendimiento que necesitas. Este calzado, el primero con espuma Fórmula 23 de largo completo, cuenta con un ajuste de gran soporte diseñado pensando en el famoso paso atrás. Al mismo tiempo, los filamentos Flight Wire fuertes y ligeros mantienen la contención, ya sea que estés jugando en el interior o en el exterior. Esta es la asistencia que has estado esperando. \n\n- Color: Blanco \n- Estilo: DN1772-164",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 189990,
+                "slug": "luka-1",
+                "createdAt": "2023-06-04T14:59:28.539Z",
+                "updatedAt": "2023-06-04T15:09:59.965Z",
+                "publishedAt": "2023-06-04T14:59:48.471Z"
+              }
+            },
+            {
+              "id": 30,
+              "attributes": {
+                "name": "Nike Renew Elevate 3",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 82990,
+                "description": "Sube el nivel de tu juego en ambos extremos de la cancha con el **Nike Renew Elevate 3**. Especialmente diseñado para los jugadores bidireccionales que quieren tener un impacto ofensivo y defensivo, este calzado te ayuda a optimizar tu capacidad con soporte y estabilidad para todo el juego y toda la temporada. La tracción mejorada y la sujeción del arco del pie mejoran el corte y el giro, lo que puede marcar la diferencia en la recta final. \n\n- Color: Negro \n- Estilo: DD9304-005",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 137990,
+                "slug": "nike-renew-elevate-3",
+                "createdAt": "2023-06-04T15:01:23.564Z",
+                "updatedAt": "2023-06-04T15:10:16.300Z",
+                "publishedAt": "2023-06-04T15:01:33.988Z"
+              }
+            },
+            {
+              "id": 31,
+              "attributes": {
+                "name": "LeBron Witness 7",
+                "subtitle": "Zapatillas de básquetbol para hombre",
+                "price": 82990,
+                "description": "Cuanto más se prolonga la carrera legendaria de **LeBron**, su juego necesita más de un diseño que no le pese y que, al mismo tiempo, pueda controlar toda esa potencia sublime. Así que hemos creado nuestro modelo LeBron más ligero y con el tipo de soporte perceptible que puede ayudarte a mantenerte frente a tu oponente cuando el partido está en riesgo. La amortiguación Max Air de lago completo te ayuda a despegar y aterrizar con confianza, mientras que la malla ligera se combina con los cables de contención para mantenerte firme durante cuatro cuartos o más. \n\n- Color: Negro \n- Estilo: DM1123-001",
+                "size": {
+                  "data": [
+                    {
+                      "size": "UK 6",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 6.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 7.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 8.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 9.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 10.5",
+                      "enabled": true
+                    },
+                    {
+                      "size": "UK 11",
+                      "enabled": false
+                    },
+                    {
+                      "size": "UK 11.5",
+                      "enabled": false
+                    }
+                  ]
+                },
+                "original_price": 109990,
+                "slug": "le-bron-witness-7",
+                "createdAt": "2023-06-04T15:03:02.986Z",
+                "updatedAt": "2023-06-04T15:10:35.660Z",
+                "publishedAt": "2023-06-04T15:03:16.541Z"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 5
+    }
+  }
+}
